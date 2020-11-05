@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map SD
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+StarterKitControl	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+HeaterOn	KEYWORD2
+HeaterOff	KEYWORD2
+FanOn	KEYWORD2
+FanOff	KEYWORD2
+InitPlatform	KEYWORD2
+StartExperiment	KEYWORD2
+EndExperiment	KEYWORD2
+StartButton	KEYWORD2
+IRQ_Handler	KEYWORD2
+delay_msec	KEYWORD2
+delay_sec	KEYWORD2
+
+
